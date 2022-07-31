@@ -1,0 +1,14 @@
+C:\Users\pramd\Downloads\asp\Organisasi_WebApi\bin\Debug\netcoreapp2.2\Organisasi_WebApi.deps.json
+C:\Users\pramd\Downloads\asp\Organisasi_WebApi\bin\Debug\netcoreapp2.2\Organisasi_WebApi.runtimeconfig.json
+C:\Users\pramd\Downloads\asp\Organisasi_WebApi\bin\Debug\netcoreapp2.2\Organisasi_WebApi.runtimeconfig.dev.json
+C:\Users\pramd\Downloads\asp\Organisasi_WebApi\bin\Debug\netcoreapp2.2\Organisasi_WebApi.dll
+C:\Users\pramd\Downloads\asp\Organisasi_WebApi\obj\Debug\netcoreapp2.2\Organisasi_WebApi.csprojAssemblyReference.cache
+C:\Users\pramd\Downloads\asp\Organisasi_WebApi\obj\Debug\netcoreapp2.2\Organisasi_WebApi.csproj.CoreCompileInputs.cache
+C:\Users\pramd\Downloads\asp\Organisasi_WebApi\obj\Debug\netcoreapp2.2\Organisasi_WebApi.RazorAssemblyInfo.cache
+C:\Users\pramd\Downloads\asp\Organisasi_WebApi\obj\Debug\netcoreapp2.2\Organisasi_WebApi.RazorAssemblyInfo.cs
+C:\Users\pramd\Downloads\asp\Organisasi_WebApi\obj\Debug\netcoreapp2.2\Organisasi_WebApi.AssemblyInfoInputs.cache
+C:\Users\pramd\Downloads\asp\Organisasi_WebApi\obj\Debug\netcoreapp2.2\Organisasi_WebApi.AssemblyInfo.cs
+C:\Users\pramd\Downloads\asp\Organisasi_WebApi\obj\Debug\netcoreapp2.2\Organisasi_WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\pramd\Downloads\asp\Organisasi_WebApi\bin\Debug\netcoreapp2.2\Organisasi_WebApi.pdb
+C:\Users\pramd\Downloads\asp\Organisasi_WebApi\obj\Debug\netcoreapp2.2\Organisasi_WebApi.dll
+C:\Users\pramd\Downloads\asp\Organisasi_WebApi\obj\Debug\netcoreapp2.2\Organisasi_WebApi.pdb
